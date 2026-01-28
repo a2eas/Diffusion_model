@@ -64,4 +64,5 @@ Vaswani et al., Attention Is All You Need, 2017
 ## Note
 
 This code is not complete and I am still learning if there is an issue please create a pull request so I can fix it
+**Note:** This project is currently frozen and will not be actively developed further. It remains here as a learning example of OpenCV and Python automation.
 
