@@ -49,3 +49,15 @@ pip install torch
 PyTorch Transformer Documentation
 
 Vaswani et al., Attention Is All You Need, 2017
+
+
+
+
+
+
+
+
+## Note
+
+This code is not complete and I am still learning if there is an issue please create a pull request so I can fix it
+
